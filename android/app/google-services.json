@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "727688659544",
+    "project_id": "jli-treasure",
+    "storage_bucket": "jli-treasure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727688659544:android:e6d860471e3aa5d564402d",
+        "android_client_info": {
+          "package_name": "com.jli_treasure.flashcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727688659544-95t5tm0o0c0rq6hdd8hgdtq62326th7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jli_treasure.flashcard",
+            "certificate_hash": "e8090becafd20babafab11f93d94591a910ab676"
+          }
+        },
+        {
+          "client_id": "727688659544-lqrhofm1i2jqm0pmiv85ubivmc83qjd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jli_treasure.flashcard",
+            "certificate_hash": "f384ee1cc265e75f7fd1ed0ad067a8eff849a676"
+          }
+        },
+        {
+          "client_id": "727688659544-pjcbkivlsvrbispa1ijh9cj6ir15p2tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrY0nUiHQT0kUOQ9MkNF3ML-R7VLETuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727688659544-pjcbkivlsvrbispa1ijh9cj6ir15p2tj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727688659544-0981b485p7nuele53c9soe8tsbcn16ff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jli-treasure.flashcard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
